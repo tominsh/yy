@@ -2,6 +2,7 @@
 ### Saturs
 
 #### 1. Aprakstīt spēli
+Spēle palīdz atīstīt loģiku.
 #### 2. Spēles loģika
 
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
